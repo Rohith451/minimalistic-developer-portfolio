@@ -17,7 +17,7 @@
     "webpack": "^5.97.1",
     "webpack-cli": "^6.0.1"
   },
-  "homepage": "https://Rohith451.github.io/minimalistic-developer-portfolio",
+  "homepage": "https://Rohith451.github.io/Portfolio",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
