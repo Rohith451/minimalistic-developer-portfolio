@@ -1,12 +1,9 @@
 🚀 **[View Live Portfolio Here](https://Rohith451.github.io/minimalistic-developer-portfolio)**
 
-![Project preview](https://github.com/catherineisonline/minimalistic-developer-portfolio/blob/main/public/project-preview.png?raw=true)
-![Project preview](https://github.com/catherineisonline/minimalistic-developer-portfolio/blob/main/public/project-preview-3.png?raw=true)
-![Project preview](https://github.com/catherineisonline/minimalistic-developer-portfolio/blob/main/public/project-preview-2.png?raw=true)
 
 
 # Personal Portfolio
-<a href="https://minimalistic-developer-portfolio.vercel.app/">Portfolio</a> : A glimpse into a web development expertise of a fictional character. Explore a selection of interactive and responsive websites, crafted with the latest technologies such as ReactJS, Vanilla JavaScript, RESTful API, CSS, SASS, SCSS, Tailwind, and HTML. Showcasing their skills and experience in designing and developing top-notch web solutions. Please not that the name and contact details of this person are fictional. 
+<a href="https://minimalistic-developer-portfolio.vercel.app">Portfolio</a>: A glimpse into the web development expertise of a fictional character. Explore a selection of interactive and responsive websites, crafted with the latest technologies such as ReactJS, Vanilla JavaScript, RESTful API, CSS, SASS, SCSS, Tailwind, and HTML. They showcase their skills and experience in designing and developing top-notch web solutions. Please note that the name and contact details of this person are fictional. 
 
 
 ## Built With
@@ -21,12 +18,12 @@ This project was built using these technologies:
 
 2. In the project directory, you can run: `npm start`
 
-Runs the app in the development mode.\
+Runs the app in development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.
 
 ## Contribution
-I do not accept any direct contributions to this project like pull requests or implementation changes. However, if you have any suggestions or ideas feel free to message me or submit an idea in the discussions. Otherwise, you can fork this project and change it for your own purposes.
+I do not accept any direct contributions to this project, like pull requests or implementation changes. However, if you have any suggestions or ideas, feel free to message me or submit an idea in the discussions. Otherwise, you can fork this project and change it for your own purposes.
 
 ## License
 This project is released under the MIT LICENSE. You can find the specific terms and conditions outlined in the LICENSE file. This means you're free to utilize, modify, and distribute the project according to the terms of the MIT License.
