@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/minimalistic-developer-portfolio/static/css/main.66022aa3.css",
+    "main.js": "/minimalistic-developer-portfolio/static/js/main.a7bb9fed.js",
+    "static/js/453.acca0757.chunk.js": "/minimalistic-developer-portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/urlShortener.png": "/minimalistic-developer-portfolio/static/media/urlShortener.13a0d5d2c67c81a5c97b.png",
+    "static/media/icon-black.png": "/minimalistic-developer-portfolio/static/media/icon-black.3e5984feb9629d99995b.png",
+    "static/media/Bankist.jpeg": "/minimalistic-developer-portfolio/static/media/Bankist.7957967811a479c5370a.jpeg",
+    "static/media/Edgy.jpeg": "/minimalistic-developer-portfolio/static/media/Edgy.696f79da8aa8b1f98380.jpeg",
+    "static/media/RestCountries.jpeg": "/minimalistic-developer-portfolio/static/media/RestCountries.24c4bad7db2b5553e71f.jpeg",
+    "static/media/Sophia-Martinez.pdf": "/minimalistic-developer-portfolio/static/media/Sophia-Martinez.ef3e553152883fe8903b.pdf",
+    "static/media/github-pink.svg": "/minimalistic-developer-portfolio/static/media/github-pink.fca99db0960eca67e137a0d38741f5d2.svg",
+    "index.html": "/minimalistic-developer-portfolio/index.html",
+    "static/media/codepen-pink.svg": "/minimalistic-developer-portfolio/static/media/codepen-pink.fd2bb2d813529dc2b2c48296c7adcf3b.svg",
+    "static/media/linkedin-pink.svg": "/minimalistic-developer-portfolio/static/media/linkedin-pink.0170ec93bbe0fd3707cfa7e1666d0de5.svg",
+    "main.66022aa3.css.map": "/minimalistic-developer-portfolio/static/css/main.66022aa3.css.map",
+    "main.a7bb9fed.js.map": "/minimalistic-developer-portfolio/static/js/main.a7bb9fed.js.map",
+    "453.acca0757.chunk.js.map": "/minimalistic-developer-portfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66022aa3.css",
+    "static/js/main.a7bb9fed.js"
+  ]
+}
